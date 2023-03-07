@@ -22,6 +22,26 @@ nav {
     
 }
 
+nav input{
+    width: 70%;
+    color: #BFBFBF;
+
+    border-color: #BFBFBF;
+    border-radius: 0%;
+}
+
+.menu-search{
+    width: 785px;
+}
+
+.account {
+    text-align: end;
+}
+
+header img{
+    width: 100vw;
+}
+
 section {
     height: 100vh;
     background-color: #EBEBEB;

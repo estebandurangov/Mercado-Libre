@@ -20,3 +20,18 @@ nav {
     background-color: #FFF159;
     justify-content:space-around;
 }
+
+section {
+    height: 100vh;
+    background-color: #EBEBEB;
+}
+
+a {
+    text-decoration: none;
+}
+
+.medios-de-pago {
+    background-color: white;
+    display: flex;
+    justify-content: space-evenly;
+}
